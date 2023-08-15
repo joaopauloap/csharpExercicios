@@ -1,0 +1,15 @@
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\bin\Debug\net6.0\exercicios1.exe
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\bin\Debug\net6.0\exercicios1.deps.json
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\bin\Debug\net6.0\exercicios1.runtimeconfig.json
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\bin\Debug\net6.0\exercicios1.dll
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\bin\Debug\net6.0\exercicios1.pdb
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.csproj.AssemblyReference.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.AssemblyInfoInputs.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.AssemblyInfo.cs
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.csproj.CoreCompileInputs.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.dll
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\refint\exercicios1.dll
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.pdb
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\exercicios1.genruntimeconfig.cache
+C:\Users\jporto\Documents\Visual Studio 2022\exercicios1a8\obj\Debug\net6.0\ref\exercicios1.dll
